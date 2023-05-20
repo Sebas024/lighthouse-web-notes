@@ -1,6 +1,6 @@
 # Charles Samonte`s Notes
 ## Summary
-### this repository contains all of the notes taken by [charles samonte](https://github.com/Sebas024/lighthouse-web-notes.git) for the Lighthouse Labs Web Development Bootcamp.
+### this repository contains all of the notes taken by [charles samonte](https://github.com/Sebas024) for the Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
 * [Week 1](/Week_1)
